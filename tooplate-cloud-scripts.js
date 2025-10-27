@@ -10,10 +10,10 @@ https://www.tooplate.com/view/2142-cloud-sync
 // JavaScript Document
 
         // Interactive Pricing Calculator
-        const teamSlider = document.getElementById('teamSlider');
-        const storageSlider = document.getElementById('storageSlider');
-        const teamSizeDisplay = document.getElementById('teamSize');
-        const storageSizeDisplay = document.getElementById('storageSize');
+      //  const teamSlider = document.getElementById('teamSlider');
+        const storageSlider = document.getElementById('storageSlidder');
+        const teamSizeDisplay = document.getElementById('teammSize');
+        const storageSizeDisplay = document.getElementById('storageeSize');
         
         const starterPriceEl = document.getElementById('starterPrice');
         const proPriceEl = document.getElementById('proPrice');
