@@ -11,8 +11,8 @@ https://www.tooplate.com/view/2142-cloud-sync
 
         // Interactive Pricing Calculator
       //  const teamSlider = document.getElementById('teamSlider');
-       // const storageSlider = document.getElementById('storageSlidder');
-      //  const teamSizeDisplay = document.getElementById('teammSize');
+        const storageSlider = document.getElementById('storageSlidder');
+        const teamSizeDisplay = document.getElementById('teammSize');
         const storageSizeDisplay = document.getElementById('storageeSize');
         
         const starterPriceEl = document.getElementById('starterPrice');
